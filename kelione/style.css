@@ -1,0 +1,60 @@
+h1{
+    color: #180D49;
+    font-family: "Lucida Console";
+}
+h2{
+    color: #8B76E8;
+    font-family: "Lucida Console";
+}
+p{
+    color: #180D49;
+    font-family: "Lucida Console";
+}
+li
+{
+    color: #180D49;
+    font-family: "Lucida Console";
+}
+
+.paragrafas
+{
+    text-align: left;
+    font-size: 20pt;
+    margin-left: 100px;
+    margin-right: 400px;
+}
+.antraste
+{
+    text-align: center;
+    font-size: 80pt;   
+    font-style: italic;
+}
+
+body{
+    background-color: #58A7C6;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000%;
+  }
+img {
+    padding: 50px;
+    transition: transform .2s;
+    width: 1000px;
+    height: 350px;
+    margin: 0 auto;
+  }
+  
+img:hover {
+    transform: scale(1.2);
+  }
+
+  #vardas{
+    text-align: right;
+    font-size: 20pt;   
+    font-style: italic;
+    color: rgb(56, 44, 114);
+  }
